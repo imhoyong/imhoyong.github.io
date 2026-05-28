@@ -2,7 +2,7 @@
 ## 🚀 Clone Momentum
 
 * Go to result https://imhoyong.github.io/
-* Educated https://nomadcoders.co/
+
 
 
 <hr>
